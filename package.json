@@ -1,0 +1,26 @@
+{
+  "name": "cryptofish",
+  "version": "1.0.0",
+  "description": "cryptofish",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ang110"
+  },
+  "keywords": [
+    "cryptofish"
+  ],
+  "author": "anshi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "http": "0.0.0",
+    "jade": "^1.11.0",
+    "mongoose": "^5.0.10",
+    "path": "^0.12.7",
+    "web3": "^0.20.6"
+  }
+}
